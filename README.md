@@ -1,4 +1,4 @@
-# mess_food_app
+# Mess_Mate
 
 A new Flutter project.
 
